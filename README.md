@@ -1,2 +1,2 @@
 # melancia
- uma animação simples, tá com fome?
+ - uma animação simples, tá com fome?
